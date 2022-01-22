@@ -12,3 +12,4 @@
 - [Facebook Group](https://facebook.com/groups/bossrodprogrammingph)
 - [YouTube](https://youtube.com/bossRODTV)
 - [TikTok](https://www.tiktok.com/@bossrod.tv)
+- [LinkedIn](https://www.linkedin.com/in/constrod/)
