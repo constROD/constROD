@@ -1,7 +1,7 @@
 ### Hey! What's up 👋 
 
 - 🕴️ I’m currently working as a Sr. Software Engineer.
-- 💬 I'm a `React`, `Node` and `TypeScript` enthusiast.
+- 💬 I'm a `React`, `Node` & `TypeScript` Enthusiast.
 - 🚧 I love building, managing and optimizing an amazing applications.
 - 😎 I love anime.
 - 📧 You can contact me via email: `rialcantara21@gmail.com`
