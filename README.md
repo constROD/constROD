@@ -7,9 +7,10 @@
 - 📧 You can contact me via email: `rialcantara21@gmail.com`
 
 ### You can follow me on:
+- [LinkedIn](https://www.linkedin.com/in/constrod/)
 - [dev.to](https://dev.to/constrod)
-- [Facebook Page](https://facebook.com/pRODgrammer21)
-- [Facebook Group](https://facebook.com/groups/bossrodprogrammingph)
 - [YouTube](https://youtube.com/bossRODTV)
 - [TikTok](https://www.tiktok.com/@bossrod.tv)
-- [LinkedIn](https://www.linkedin.com/in/constrod/)
+- [Twitter](https://twitter.com/constROD)
+- [Facebook Page](https://facebook.com/pRODgrammer21)
+- [Facebook Group](https://facebook.com/groups/bossrodprogrammingph)
