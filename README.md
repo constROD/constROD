@@ -1,5 +1,5 @@
 ### Hey! What's up 👋 
 
-- 🕴️ I’m a Software Engineer
+- 🕴️ I’m currently working as a Sr. Software Engineer
 - 💬 I'm a `React`, `Node` and `TypeScript` enthusiast
 - 😎 I love anime
