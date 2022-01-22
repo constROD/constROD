@@ -9,7 +9,7 @@
 ### You can follow me on:
 - [LinkedIn](https://www.linkedin.com/in/constrod/)
 - [dev.to](https://dev.to/constrod)
-- [Youtube](https://youtube.com/bossRODTV)
+- [YouTube](https://youtube.com/bossRODTV)
 - [TikTok](https://www.tiktok.com/@bossrod.tv)
 - [Twitter](https://twitter.com/constROD)
 - [Facebook Page](https://facebook.com/pRODgrammer21)
