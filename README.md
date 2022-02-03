@@ -8,6 +8,7 @@
 
 ### You can follow me on:
 - [LinkedIn](https://www.linkedin.com/in/constrod/)
+- [NPM](https://www.npmjs.com/~constrod)
 - [dev.to](https://dev.to/constrod)
 - [YouTube](https://youtube.com/bossRODTV)
 - [TikTok](https://www.tiktok.com/@bossrod.tv)
