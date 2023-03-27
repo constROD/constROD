@@ -1,7 +1,7 @@
 ### Hello, what's up mga boss 👋 
 
 - 🕴️ I’m currently working as a Sr. Software Engineer.
-- 💬 I'm a `React`, `Next` & `TypeScript` Enthusiast.
+- 💬 I'm a `React`, `Next`, `TypeScript` & `Serverless Framework` Enthusiast.
 - 🚧 I love building, managing and optimizing an amazing websites and applications.
 - 📖 I love sharing my knowledge to anyone who wants to learn.
 - 😎 Anime lover.
