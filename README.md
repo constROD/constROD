@@ -1,7 +1,7 @@
-### Hello, what's up mga boss 👋 
+### Yow! 👋 
 
 - 🕴️ I’m currently working as a Sr. Software Engineer.
-- 💬 I'm a `React`, `Next`, `TypeScript` & `Serverless Framework` Enthusiast.
+- 💬 I'm a `React`, `Next` & `TypeScript` & `Serverless Frameworks (SST)` Enthusiast.
 - 🚧 I love building, managing and optimizing an amazing websites and applications.
 - 📖 I love sharing my knowledge to anyone who wants to learn.
 - 😎 Anime lover.
@@ -9,10 +9,8 @@
 
 ### You can follow me on:
 - [LinkedIn](https://www.linkedin.com/in/constrod/)
-- [NPM](https://www.npmjs.com/~constrod)
-- [dev.to](https://dev.to/constrod)
 - [YouTube](https://youtube.com/bossRODTV)
 - [TikTok](https://www.tiktok.com/@bossrod.tv)
 - [Twitter](https://twitter.com/constROD)
-- [Facebook Page](https://facebook.com/pRODgrammer21)
-- [Facebook Group](https://facebook.com/groups/bossrodprogrammingph)
+- [Facebook Page](https://facebook.com/codewithbossrod)
+- [Facebook Group](https://facebook.com/groups/bossrodscommunity)
