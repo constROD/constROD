@@ -1,7 +1,7 @@
 ### Yow! 👋 
 
 - 🕴️ I’m currently working as a Sr. Software Engineer.
-- 💬 I'm a `React`, `Next` & `TypeScript` & `Serverless Frameworks (SST)` Enthusiast.
+- 💬 I'm a `React`, `Next`, `Node` & `TypeScript` & `Serverless Framework (SST)` Enthusiast.
 - 🚧 I love building, managing and optimizing an amazing websites and applications.
 - 📖 I love sharing my knowledge to anyone who wants to learn.
 - 😎 Anime lover.
