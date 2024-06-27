@@ -1,11 +1,12 @@
 ### Yow! 👋 
 
-- 🕴️ I’m currently working as a Sr. Software Engineer.
-- 💬 I'm a `React`, `Next`, `Node`, `TypeScript` & `Serverless Framework (SST)` Enthusiast.
-- 🚧 I love building, managing and optimizing web and applications.
-- 📖 I love learning.
-- 😎 Anime lover.
-- 📧 Let's build your application/website and you can contact me via email: `rialcantara21@gmail.com`
+- 👨‍💻 Software Engineer & Solution Architect
+- 🛠️ Full Stack, Frontend, Backend, Mobile Development
+- 🧰 `React`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)`
+- 🏗️ Architecture design and optimization
+- 📚 Continuous learner
+- 🍿 Anime fan
+- 📧 Contact: rialcantara21@gmail.com
 
 ### You can follow me on:
 - [LinkedIn](https://www.linkedin.com/in/constrod/)
