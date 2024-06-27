@@ -1,8 +1,8 @@
 ### Yow! 👋 
 
-- 👨‍💻 Software Engineer & Solution Architect
-- 🛠️ Full Stack, Frontend, Backend, Mobile Development
-- 🧰 `React`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)`
+- 👨‍💻 Software Engineer 
+- 🛠️ Solution Architect, Frontend, Backend & Mobile Development.
+- 🧰 `React`, `React Native`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)`
 - 🏗️ Architecture design and optimization
 - 📚 Continuous learner
 - 🍿 Anime fan
