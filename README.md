@@ -5,7 +5,7 @@
 - 🧰 `React`, `React Native`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)`
 - 🏗️ Architecture design and optimization
 - 📚 Continuous learner
-- 🍿 Anime fan
+- 🔥 Anime fan
 - 📧 Contact: rialcantara21@gmail.com
 
 ### You can follow me on:
