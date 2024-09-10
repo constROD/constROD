@@ -1,7 +1,7 @@
 ### Yow! 👋 
 
 - 👨‍💻 Software Engineer 
-- 🛠️ Solution Architect, Frontend, Backend & Mobile Development.
+- 🛠️ Solution Architect, Frontend, Backend & Web/Mobile Development.
 - 🧰 `React.js`, `React Native`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)` or `AWS CDK`
 - 📚 Continuous learner
 - 🔥 Anime fan
