@@ -2,8 +2,7 @@
 
 - 👨‍💻 Software Engineer 
 - 🛠️ Solution Architect, Frontend, Backend & Mobile Development.
-- 🧰 `React`, `React Native`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)`
-- 🏗️ Architecture design and optimization
+- 🧰 `React.js`, `React Native`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)` or `AWS CDK`
 - 📚 Continuous learner
 - 🔥 Anime fan
 - 📧 Contact: rialcantara21@gmail.com
