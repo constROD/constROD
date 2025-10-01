@@ -1,11 +1,10 @@
 ### Yow! 👋 
 
 - 👨‍💻 Software Engineer / Tech Content Creator 
-- 🛠️ I love Solution Architect, Frontend, Backend & Web/Mobile Development.
+- 🛠️ I love Solution Architect, Frontend, Backend, Web/Mobile Development and Servers
 - 🧰 `React.js`, `React Native`, `Node.js`, `TypeScript`, `AWS` & IaC using `Serverless Stack (SST)` or `AWS CDK`
 - 📚 Continuous learner
 - 🔥 Anime fan
-- 📧 Contact: rialcantara21@gmail.com
 
 ### You can follow me on:
 - [LinkedIn](https://linkedin.com/in/constrod)
